@@ -27,7 +27,7 @@ ui <- navbarPage(
       src = "https://kit.fontawesome.com/0c3170759b.js", 
       crossorigin = "anonymous")
   ),
-  tabPanel("Home Sweet Home (again)",
+  tabPanel("Home",
            tags$div(class = "container",
                     tags$div(class = "center",
                              tags$img(
